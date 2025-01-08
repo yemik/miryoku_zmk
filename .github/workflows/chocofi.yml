@@ -8,3 +8,4 @@ jobs:
       board: '["nice_nano_v2"]'
       modules: '["M165437/nice-view-gem/main"]'
       shield: '["corne_left nice_view_adapter nice_view_gem","corne_right nice_view_adapter nice_view_gem"]'
+      branches: '["zmkfirmware/zmk/main peppapighs/miryoku_zmk/tree/pointing"]'
